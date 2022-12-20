@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_rev - reverse something
+ * print_rev - reverse string
  * @s: params
  */
 
