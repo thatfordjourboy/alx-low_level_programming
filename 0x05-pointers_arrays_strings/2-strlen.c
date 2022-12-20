@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strlen - string lenght
+ * _strlen - string length
  * @s: params
  * Return: int
  */
