@@ -1,3 +1,4 @@
+#include <stdio.h>
 /**
  * main - prints all numbers in base 16
  *
